@@ -2,7 +2,7 @@
 Booking Room: The WebApp is developed using PHP,HTML and MySQL language. 
 it is deployed using c9.io click on the link https://itp-module-x14346081.c9users.io/
 
-Quiz App: it is created uisng java language and runed on Netbeans.
+Quiz App: it is created uisng java language and runned on Netbeans.
 
 Starcabs: is website which is developed using html,javascript and css.Used Notepad++
 
