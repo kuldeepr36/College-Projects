@@ -1,4 +1,6 @@
 # College-Projects
+final_projec_code: Developed T-20 cricket model using data mining techniques, which involves fetching the data from cricket website. Clean the downloaded data to perform analysis and to predict outcome of the match using R, Tableau and Python. 
+
 Booking Room: The WebApp is developed using PHP,HTML and MySQL language. 
 it is deployed using c9.io click on the link https://itp-module-x14346081.c9users.io/
 
